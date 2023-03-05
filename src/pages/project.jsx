@@ -1,6 +1,6 @@
 function Project() {
     return (
-     <p>Project</p>
+     <p>https://bharath1503.github.io/Home</p>
     );
   }
 
